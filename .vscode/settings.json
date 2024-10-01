@@ -1,0 +1,4 @@
+{
+  "dotnetAcquisitionExtension.sharedExisting": "/usr/lib64/dotnet/dotnet",
+  // "dotnetSDKAcquisitionExtension.proxyUrl": "https://your_proxy_url:port"
+}
